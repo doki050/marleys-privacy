@@ -1,6 +1,6 @@
 # Marbles: Odd or Even — website & privacy
 
-Official public-facing app name: **Marbles: Odd or Even**. The existing GitHub repository remains named `marbles-privacy` to preserve the live Pages URL.
+Official public-facing app name: **Marbles: Odd or Even**. GitHub Pages is configured in these files for the repository name `marbles-privacy`. If the repository has not yet been renamed, rename it under GitHub **Settings → General → Repository name** to activate the new URLs.
 
 This is the zero-build, responsive, static marketing and support site for Marbles: Odd or Even, styled after the app's cream, caramel, walnut and multicolored glass marbles palette. Inspired by the page organization of `doki050/clonee-privacy`.
 
