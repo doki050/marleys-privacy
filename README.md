@@ -1,8 +1,8 @@
-# Marleys — website & privacy
+# Marbles: Odd or Even — website & privacy
 
-Official public-facing app name: **Marleys** (the iOS source code project is named Marbles).
+Official public-facing app name: **Marbles: Odd or Even**. The existing GitHub repository remains named `marleys-privacy` to preserve the live Pages URL.
 
-This is the zero-build, responsive, static marketing and support site for Marleys, styled after the app's cream, caramel, walnut and multicolored glass marbles palette. Inspired by the page organization of `doki050/clonee-privacy`.
+This is the zero-build, responsive, static marketing and support site for Marbles: Odd or Even, styled after the app's cream, caramel, walnut and multicolored glass marbles palette. Inspired by the page organization of `doki050/clonee-privacy`.
 
 ## Public URLs (GitHub Pages)
 
